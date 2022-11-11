@@ -13,3 +13,6 @@ https://www.roblox.com/games/11309624113/Parkour
 # desafio-roblox-3
 Criando um jogo Multiplataforma Monetizado no Roblox
 https://www.roblox.com/games/11423571169/Bomb
+
+# desafio-roblox-4
+Criando uma Biblioteca de Utilidades
