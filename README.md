@@ -17,3 +17,7 @@ https://www.roblox.com/games/11423571169/Bomb
 # desafio-roblox-4
 Criando uma Biblioteca de Utilidades
 https://github.com/sscastilho/desafio-roblox-4
+
+# desafio-roblox-5
+Hands-on: Criando um Jogo de Sobrevivência no Roblox
+https://www.roblox.com/games/11540492058/Survival-Game-SSC
